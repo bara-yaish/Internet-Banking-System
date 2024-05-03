@@ -9,11 +9,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Horizon Bank</title>
-    <link href="/bankproject/index_css.scss" rel="stylesheet">
+    <link href="./styles/index_css.scss" rel="stylesheet">
 </head>
 <body>
     <nav class="nav-bar">
-        <img src="./horizon5.png" width="150" height="100">
+        <img src="./images/horizon5.png" width="150" height="100">
         <div id="container" class="nav-items">
             <a href="#">About Us</a>
             <a href="#">Contact Us</a>
@@ -33,7 +33,7 @@
             <button onclick="location.href='bank_registration.php'">Create Account Now</button>
         </div>
         <div class="hero-img-container">
-            <img src="./wallpaper2.jpg">
+            <img src="./images/wallpaper2.jpg">
         
     
         </div>

@@ -13,7 +13,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Transfer Funds</title>
-    <link rel="stylesheet" href="transferfunds.scss">
+    <link rel="stylesheet" href="styles/transferfunds.scss">
     <style>
        table { border: 1px solid #5c743d;
 				width: 85%;
@@ -51,7 +51,7 @@
 	<br />
 	<div class="logo">
 
-    <img src="/bankproject/horizon5.png" width="210" height="140" onclick="location.href='homepage2.php?account=<?php echo $account ?>'">
+    <img src="./images/horizon5.png" width="210" height="140" onclick="location.href='homepage2.php?account=<?php echo $account ?>'">
 	
     </div>
 

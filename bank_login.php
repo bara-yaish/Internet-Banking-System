@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
-    <link rel="stylesheet" href="login_css.scss">
+    <link rel="stylesheet" href="styles/login_css.scss">
 </head>
 <body>
    
@@ -67,7 +67,7 @@ if(isset($_POST['login']))
 ?>
 
     <div class='container'>
-        <img src="/bankproject/back.png" width="30px" height="30px" onclick="location.href='bank-index.php'">
+        <img src="./images/back.png" width="30px" height="30px" onclick="location.href='bank-index.php'">
         <br>
         <br>
         <h1 style="font-size:25px">Login to your account. </h1>

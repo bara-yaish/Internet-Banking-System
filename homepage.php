@@ -3,14 +3,14 @@
 
     <head>
 		<title>Banking Website</title>
-        <link href="/bankproject/homepageCSS.css" rel="stylesheet">
+        <link href="./styles/homepageCSS.css" rel="stylesheet">
 	</head>
 	<body>
 		<div id="" class="">
             <h1>BLUE HORIZON</h1>
             
             
-        <a href="homepage.html"><img src="/bankproject/horizon1.png" alt="Banking System" title="Banking Website"></a>
+        <a href="homepage.html"><img src="./images/horizon1.png" alt="Banking System" title="Banking Website"></a>
         </div>
 		<div id="log_sign">
             <li><a href="#">Login</a></li>
@@ -36,19 +36,19 @@
 		<div class="slideshow-container">
             <div class="mySlides fade">
                 <div class="wordtext">View Balance</div>
-                <img src="/bankproject/viewbalance.png">
+                <img src="./images/viewbalance.png">
             </div>
             <div class="mySlides fade">
                 <div class="wordtext">Tranfer Fund</div>
-                <img src="/bankproject/transferfunds.png">
+                <img src="./images/transferfunds.png">
             </div>
             <div class="mySlides fade">
                 <div class="wordtext">Pay Bills</div>
-                <img src="/bankproject/paybills.png">
+                <img src="./images/paybills.png">
             </div>
 			<div class="mySlides fade">
                 <div class="wordtext">Bank Statement</div>
-                <img src="/bankproject/bankstatement.png">
+                <img src="./images/bankstatement.png">
             </div>
         </div>
         <br>

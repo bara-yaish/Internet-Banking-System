@@ -42,7 +42,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
-    <link rel="stylesheet" href="registration_css.scss">
+    <link rel="stylesheet" href="styles/registration_css.scss">
     <style>
         
     </style>

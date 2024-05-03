@@ -48,7 +48,7 @@
 				$mail->setFrom("baraihab490@outlook.sa");
 				$mail->addAddress($email, "Saurav");
 
-				$email_template = " Click on the Link Below to Complete your Horizon Bank Account Registration\n\nhttp://localhost/bankproject/admin_user_registration2.php?email=$email";
+				$email_template = " Click on the Link Below to Complete your Horizon Bank Account Registration\n\nhttp://localhost.//admin_user_registration2.php?email=$email";
 				
 				$mail->Subject = "Email Verification for Horizon bank Registration";
 				$mail->Body = $email_template;
@@ -84,7 +84,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
-    <link rel="stylesheet" href="registration_css.scss">
+    <link rel="stylesheet" href="styles/registration_css.scss">
     <style>
         p {
             color: white;

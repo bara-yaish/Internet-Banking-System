@@ -15,7 +15,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Transfer Funds</title>
-    <link rel="stylesheet" href="transferfunds.scss">
+    <link rel="stylesheet" href="styles/transferfunds.scss">
     <style>
        table { border: 1px solid #5c743d;
 				width: 50%;
@@ -52,7 +52,7 @@
 <body style="height: 1400px;">
 	<div class="logo">
 
-    <img src="/bankproject/horizon5.png" width="105" height="70" onclick="">
+    <img src="./images/horizon5.png" width="105" height="70" onclick="">
 	
     </div>
 

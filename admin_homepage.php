@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
-    <link href="/bankproject/homepage2css.scss" rel="stylesheet">
+    <link href="./styles/homepage2css.scss" rel="stylesheet">
     <style>
 
     </style>
@@ -21,7 +21,7 @@
     
 <div class="logo">
 
-    <img src="/bankproject/horizon5.png" width="105" height="70" onclick="">
+    <img src="./images/horizon5.png" width="105" height="70" onclick="">
     </div>
 
 
@@ -36,7 +36,7 @@
 
 
     <!-- <div class="background-container">
-        <img src="/bankproject/wallpaper1.jpg" width="720" height="700">
+        <img src="./images/wallpaper1.jpg" width="720" height="700">
     </div> -->
 	<form action="admin_homepage.php" method="post">
 	<table cellpadding="5px" width="50%" border='1'>
